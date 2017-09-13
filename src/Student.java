@@ -72,7 +72,7 @@ public class Student implements Comparable {
 
 	@Override
 	public int hashCode() {
-		return super.hashCode()
+		return super.hashCode();
 	}
 
 	@Override
